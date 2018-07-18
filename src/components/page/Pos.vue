@@ -139,7 +139,7 @@ export default{
         this.totalCount = 0;
         this.totalMoney = 0;
         this.$message({
-            message: '结账成功，感谢你又为店里出了一份力!',
+            message: '结账成功，感谢你!',
             type: 'success'
         });
  
